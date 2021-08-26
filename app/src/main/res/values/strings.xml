@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HiltDemo</string>
+    <string name="buttons_welcome">Please interact with the buttons, we\'ll track your clicks!</string>
+    <string name="button_1">Button 1</string>
+    <string name="button_2">Button 2</string>
+    <string name="button_3">Button 30 </string>
+    <string name="see_all_logs">SEE ALL LOGS</string>
+    <string name="delete_logs">Delete Logs</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
